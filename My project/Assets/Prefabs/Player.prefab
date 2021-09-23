@@ -95,7 +95,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 3484547157366630574}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c37f578da3fcc324eb4aa950823ceee3, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -147,7 +147,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &1183230461834908730
 MonoBehaviour:
   m_ObjectHideFlags: 0
